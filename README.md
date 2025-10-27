@@ -1,29 +1,7 @@
 # A00494129_MCDA5510
-React App Assignment 
+Hi,
+I'm Binziya Siddik A00494129 and my email ID is Binziya.Siddik@smu.ca 
 
-my-app with two views: "About Me" and "My Town" with live weather data fetched from OpenWeatherMap API.
+I am interested in UX Design and Robotics. I love figuring out how technology can be made fun, intuitive, and easy to use. Robotics excites me because building machines that can move and interact with the world. 
 
-
-
-Features:
-
-~ Two Pages:
-    About Me - personal introduction.
-    My Town - Kerala, India
-
-~ Navigation:
-    Functional view switching
-
-~ Weather Data:
-    from OpenweatherMap using fetch and a secure .env API key
-
-~ Conditional icon:
-    -If temperatureC is ≤ 10 → shows cold.png
-    -If temperatureC is between 11 and 19 → shows mild.png
-    -If temperatureC is ≥ 20 → shows sunny.png
-
-~ Temperture toggle:
-    switch between celsius and fahrenheit
-
-~ style:
-    CSS
+Fun fact: I enjoy gaming, singing, fashion, and drawing or painting—but I’m not a professional in any of them. I just love exploring different creative hobbies and having fun along the way!
