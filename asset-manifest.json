@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/A00494129/A00494129_MCDA5510/static/css/main.e6c13ad2.css",
+    "main.js": "/A00494129/A00494129_MCDA5510/static/js/main.fd19318c.js",
+    "static/js/453.117b0875.chunk.js": "/A00494129/A00494129_MCDA5510/static/js/453.117b0875.chunk.js",
+    "static/media/kerala.jpg": "/A00494129/A00494129_MCDA5510/static/media/kerala.e17ecae686264c593754.jpg",
+    "static/media/girl.png": "/A00494129/A00494129_MCDA5510/static/media/girl.ba7fd2b0799a0e37f169.png",
+    "static/media/sunny.png": "/A00494129/A00494129_MCDA5510/static/media/sunny.d91b0b1225f174c96bf3.png",
+    "static/media/mild.png": "/A00494129/A00494129_MCDA5510/static/media/mild.200b6665835b1f4485be.png",
+    "static/media/cold.png": "/A00494129/A00494129_MCDA5510/static/media/cold.b8d6d7ed900f8f6dc29a.png",
+    "index.html": "/A00494129/A00494129_MCDA5510/index.html",
+    "main.e6c13ad2.css.map": "/A00494129/A00494129_MCDA5510/static/css/main.e6c13ad2.css.map",
+    "main.fd19318c.js.map": "/A00494129/A00494129_MCDA5510/static/js/main.fd19318c.js.map",
+    "453.117b0875.chunk.js.map": "/A00494129/A00494129_MCDA5510/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fd19318c.js"
+  ]
+}
